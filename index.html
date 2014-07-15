@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <title>Level up moves</title>
 <style>
@@ -41,88 +43,7 @@ th, td {
 }
 </style>
 <script>
-var movesets = [
-    {
-        name: "Leavanny",
-        level: 52,
-        moves: [
-            "Entrainment",
-            "X-Scissor",
-            "Grass Knot",
-            "Razor Leaf"
-        ],
-        levelup: {}
-    },
-    {
-        name: "Emboar",
-        level: 61,
-        moves: [
-            "Flamethrower",
-            "Grass Knot",
-            "Earthquake",
-            "Heat Crash"
-        ],
-        levelup: {
-            62: "Flare Blitz"
-        }
-    },
-    {
-        name: "Unfezant",
-        level: 51,
-        moves: [
-            "Roost",
-            "Fly",
-            "Air Slash",
-            "Gust"
-        ],
-        levelup: {
-            55: "Facade",
-            60: "Tailwind",
-            66: "Sky Attack"
-        }
-    },
-    {
-        name: "Feraligatr",
-        level: 63,
-        moves: [
-            "Aqua Tail",
-            "Strength",
-            "Rock Slide",
-            "Surf"
-        ],
-        levelup: {
-            71: "Superpower",
-            76: "Hydro Pump"
-        }
-    },
-    {
-        name: "Sceptile",
-        level: 57,
-        moves: [
-            "Rock Slide",
-            "Earthquake",
-            "Strength",
-            "Energy Ball"
-        ],
-        levelup: {
-            59: "False Swipe",
-            67: "Leaf Storm"
-        }
-    },
-    {
-        name: "Zoroark",
-        level: 61,
-        moves: [
-            "Night Slash",
-            "Nasty Plot",
-            "Fury Swipes",
-            "Foul Play"
-        ],
-        levelup: {
-            64: "Night Daze"
-        }
-    }
-]
+var movesets = {{ site.data.team | jsonify }}
 </script>
 <script src="moves.js"></script>
 <script src="create-table.js"></script>
