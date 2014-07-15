@@ -40,7 +40,12 @@ window.onload = function onload() {
 
     for (i = 1; i <= maxLevel; i++) {
         appendRow('+' + i, function levelUpMove(mon) {
-            return mon.levelup[mon.level + i] || ""
+            var level = mon.level + i
+            var move = mon.levelup[level]
+            if (move) {
+                return move + " (" + level + ")"
+            }
+            return ""
         })
     }
 
