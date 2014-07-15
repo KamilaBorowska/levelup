@@ -13,7 +13,16 @@ window.onload = function onload() {
         var length = movesets.length
         for (i = 0; i < length; i++) {
             var td = document.createElement(type)
-            td.appendChild(document.createTextNode(callback(movesets[i])))
+            var value = callback(movesets[i])
+            td.appendChild(document.createTextNode(value))
+            if (type === 'td' && value) {
+                var moveName = /^[^(]+(?!\()/.exec(value)[0]
+                var move = moves[moveName]
+                var title = "Power: " + move.power +
+                    ", accuracy: " + move.accuracy + "%, " +
+                    move.type + " type"
+                td.setAttribute('title', title)
+            }
             tr.appendChild(td)
         }
         table.appendChild(tr)
