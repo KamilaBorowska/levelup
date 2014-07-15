@@ -2,46 +2,7 @@
 ---
 <!DOCTYPE html>
 <title>Level up moves</title>
-<style>
-table {
-    border-collapse: collapse;
-    font-family: sans-serif;
-}
-th, td {
-    padding: 4px;
-}
-[title^="Power: 0,"] {
-    color: gray;
-    font-size: smaller;
-}
-[title$="dark type"] {
-    background: #EEE;
-}
-[title$="fire type"] {
-    background: #FDD;
-}
-[title$="flying type"] {
-    background: #EDF;
-}
-[title$="water type"] {
-    background: #DDF;
-}
-[title$="grass type"] {
-    background: #DFD;
-}
-[title$="ground type"] {
-    background: #FFF8DD;
-}
-[title$="rock type"] {
-    background: #EDC;
-}
-[title$="bug type"] {
-    background: #DED;
-}
-[title$="fighting type"] {
-    background: #ECC;
-}
-</style>
+<link rel=stylesheet href=style.css>
 <script>
 var movesets = {{ site.data.team | jsonify }}
 </script>
