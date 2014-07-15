@@ -1,12 +1,11 @@
 - name: Unfezant
-  level: 54
+  level: 55
   moves:
   - Roost
   - Fly
   - Air Slash
-  - Gust
+  - Facade
   levelup:
-    55: Facade
     60: Tailwind
     66: Sky Attack
 
@@ -20,7 +19,7 @@
   levelup: {}
 
 - name: Leavanny
-  level: 55
+  level: 56
   moves:
   - Entrainment
   - X-Scissor
@@ -29,7 +28,7 @@
   levelup: {}
 
 - name: Feraligatr
-  level: 63
+  level: 64
   moves:
   - Aqua Tail
   - Strength
