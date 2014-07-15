@@ -56,7 +56,7 @@ var moves = {
     },
     "Guillotine": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 30
     },
     "Razor Wind": {
@@ -156,7 +156,7 @@ var moves = {
     },
     "Horn Drill": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 30
     },
     "Tackle": {
@@ -241,7 +241,7 @@ var moves = {
     },
     "Sonic Boom": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 90
     },
     "Disable": {
@@ -331,17 +331,17 @@ var moves = {
     },
     "Low Kick": {
         type: "fighting",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Counter": {
         type: "fighting",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Seismic Toss": {
         type: "fighting",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Strength": {
@@ -406,7 +406,7 @@ var moves = {
     },
     "Dragon Rage": {
         type: "dragon",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Fire Spin": {
@@ -446,7 +446,7 @@ var moves = {
     },
     "Fissure": {
         type: "ground",
-        power: "?"
+        power: "?",
         accuracy: 30
     },
     "Dig": {
@@ -501,7 +501,7 @@ var moves = {
     },
     "Night Shade": {
         type: "ghost",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Mimic": {
@@ -581,7 +581,7 @@ var moves = {
     },
     "Bide": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: Infinity
     },
     "Metronome": {
@@ -741,7 +741,7 @@ var moves = {
     },
     "Psywave": {
         type: "psychic",
-        power: "?"
+        power: "?",
         accuracy: 80
     },
     "Splash": {
@@ -806,7 +806,7 @@ var moves = {
     },
     "Super Fang": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 90
     },
     "Slash": {
@@ -871,7 +871,7 @@ var moves = {
     },
     "Flail": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Conversion 2": {
@@ -891,7 +891,7 @@ var moves = {
     },
     "Reversal": {
         type: "fighting",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Spite": {
@@ -1076,17 +1076,17 @@ var moves = {
     },
     "Return": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Present": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 90
     },
     "Frustration": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Safeguard": {
@@ -1106,7 +1106,7 @@ var moves = {
     },
     "Magnitude": {
         type: "ground",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Dynamic Punch": {
@@ -1181,7 +1181,7 @@ var moves = {
     },
     "Hidden Power": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Cross Chop": {
@@ -1211,7 +1211,7 @@ var moves = {
     },
     "Mirror Coat": {
         type: "psychic",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Psych Up": {
@@ -1251,7 +1251,7 @@ var moves = {
     },
     "Beat Up": {
         type: "dark",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Fake Out": {
@@ -1271,7 +1271,7 @@ var moves = {
     },
     "Spit Up": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Swallow": {
@@ -1411,7 +1411,7 @@ var moves = {
     },
     "Endeavor": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Eruption": {
@@ -1641,7 +1641,7 @@ var moves = {
     },
     "Sheer Cold": {
         type: "ice",
-        power: "?"
+        power: "?",
         accuracy: 30
     },
     "Muddy Water": {
@@ -1796,7 +1796,7 @@ var moves = {
     },
     "Gyro Ball": {
         type: "steel",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Healing Wish": {
@@ -1811,7 +1811,7 @@ var moves = {
     },
     "Natural Gift": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Feint": {
@@ -1836,7 +1836,7 @@ var moves = {
     },
     "Metal Burst": {
         type: "steel",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "U-turn": {
@@ -1866,7 +1866,7 @@ var moves = {
     },
     "Fling": {
         type: "dark",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Psycho Shift": {
@@ -1876,7 +1876,7 @@ var moves = {
     },
     "Trump Card": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: Infinity
     },
     "Heal Block": {
@@ -1886,7 +1886,7 @@ var moves = {
     },
     "Wring Out": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Power Trick": {
@@ -1906,7 +1906,7 @@ var moves = {
     },
     "Me First": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: Infinity
     },
     "Copycat": {
@@ -1926,7 +1926,7 @@ var moves = {
     },
     "Punishment": {
         type: "dark",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Last Resort": {
@@ -2231,7 +2231,7 @@ var moves = {
     },
     "Grass Knot": {
         type: "grass",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Chatter": {
@@ -2306,7 +2306,7 @@ var moves = {
     },
     "Crush Grip": {
         type: "normal",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Magma Storm": {
@@ -2416,7 +2416,7 @@ var moves = {
     },
     "Heavy Slam": {
         type: "steel",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Synchronoise": {
@@ -2426,7 +2426,7 @@ var moves = {
     },
     "Electro Ball": {
         type: "electric",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Soak": {
@@ -2571,7 +2571,7 @@ var moves = {
     },
     "Final Gambit": {
         type: "fighting",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Bestow": {
@@ -2671,7 +2671,7 @@ var moves = {
     },
     "Heat Crash": {
         type: "fire",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Leaf Tornado": {
@@ -2856,7 +2856,7 @@ var moves = {
     },
     "Shadow Half": {
         type: "shadow",
-        power: "?"
+        power: "?",
         accuracy: 100
     },
     "Shadow Hold": {
