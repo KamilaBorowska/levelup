@@ -1,27 +1,27 @@
 - moves:
-    - Entrainment
-    - X-Scissor
-    - Grass Knot
-    - Razor Leaf
+  - Entrainment
+  - X-Scissor
+  - Grass Knot
+  - Razor Leaf
   name: Leavanny
   levelup: {}
   level: 53
 
 - moves:
-    - Flamethrower
-    - Grass Knot
-    - Earthquake
-    - Heat Crash
+  - Flamethrower
+  - Grass Knot
+  - Earthquake
+  - Heat Crash
   name: Emboar
   levelup:
     62: Flare Blitz
   level: 61
 
 - moves:
-    - Roost
-    - Fly
-    - Air Slash
-    - Gust
+  - Roost
+  - Fly
+  - Air Slash
+  - Gust
   name: Unfezant
   levelup:
     55: Facade
@@ -30,10 +30,10 @@
   level: 51
 
 - moves:
-    - Aqua Tail
-    - Strength
-    - Rock Slide
-    - Surf
+  - Aqua Tail
+  - Strength
+  - Rock Slide
+  - Surf
   name: Feraligatr
   levelup:
     71: Superpower
@@ -41,10 +41,10 @@
   level: 63
 
 - moves:
-    - Rock Slide
-    - Earthquake
-    - Strength
-    - Energy Ball
+  - Rock Slide
+  - Earthquake
+  - Strength
+  - Energy Ball
   name: Sceptile
   levelup:
     59: False Swipe
@@ -52,10 +52,10 @@
   level: 57
 
 - moves:
-    - Night Slash
-    - Nasty Plot
-    - Fury Swipes
-    - Foul Play
+  - Night Slash
+  - Nasty Plot
+  - Fury Swipes
+  - Foul Play
   name: Zoroark
   levelup:
     64: Night Daze
