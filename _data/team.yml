@@ -1,22 +1,3 @@
-- name: Leavanny
-  level: 54
-  moves:
-  - Entrainment
-  - X-Scissor
-  - Grass Knot
-  - Razor Leaf
-  levelup: {}
-
-- name: Emboar
-  level: 61
-  moves:
-  - Flamethrower
-  - Grass Knot
-  - Earthquake
-  - Heat Crash
-  levelup:
-    62: Flare Blitz
-
 - name: Unfezant
   level: 51
   moves:
@@ -28,6 +9,25 @@
     55: Facade
     60: Tailwind
     66: Sky Attack
+
+- name: Emboar
+  level: 61
+  moves:
+  - Flamethrower
+  - Grass Knot
+  - Earthquake
+  - Heat Crash
+  levelup:
+    62: Flare Blitz
+
+- name: Leavanny
+  level: 55
+  moves:
+  - Entrainment
+  - X-Scissor
+  - Grass Knot
+  - Razor Leaf
+  levelup: {}
 
 - name: Feraligatr
   level: 63
