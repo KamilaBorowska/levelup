@@ -16,34 +16,14 @@
   - Heat Crash
   levelup: {}
 
-- name: Unfezant
-  level: 63
-  moves:
-  - Roost
-  - Fly
-  - Air Slash
-  - Facade
-  levelup:
-    66: Sky Attack
-
 - name: Zoroark
-  level: 70
+  level: 71
   moves:
   - Night Slash
   - Night Daze
   - Fury Swipes
   - Foul Play
   levelup: {}
-
-- name: Sceptile
-  level: 63
-  moves:
-  - Rock Slide
-  - Earthquake
-  - Strength
-  - Energy Ball
-  levelup:
-    67: Leaf Storm
 
 - name: Feraligatr
   level: 70
@@ -55,3 +35,23 @@
   levelup:
     71: Superpower
     76: Hydro Pump
+
+- name: Sceptile
+  level: 64
+  moves:
+  - Rock Slide
+  - Earthquake
+  - Strength
+  - Energy Ball
+  levelup:
+    67: Leaf Storm
+
+- name: Unfezant
+  level: 63
+  moves:
+  - Roost
+  - Fly
+  - Air Slash
+  - Facade
+  levelup:
+    66: Sky Attack
