@@ -1,5 +1,5 @@
 - name: Unfezant
-  level: 61
+  level: 63
   moves:
   - Roost
   - Fly
@@ -9,7 +9,7 @@
     66: Sky Attack
 
 - name: Emboar
-  level: 64
+  level: 69
   moves:
   - Flamethrower
   - Grass Knot
@@ -18,7 +18,7 @@
   levelup: {}
 
 - name: Leavanny
-  level: 58
+  level: 62
   moves:
   - Entrainment
   - X-Scissor
@@ -27,7 +27,7 @@
   levelup: {}
 
 - name: Feraligatr
-  level: 68
+  level: 70
   moves:
   - Aqua Tail
   - Strength
@@ -38,18 +38,17 @@
     76: Hydro Pump
 
 - name: Sceptile
-  level: 60
+  level: 63
   moves:
   - Rock Slide
   - Earthquake
   - Strength
   - Energy Ball
   levelup:
-    59: False Swipe
     67: Leaf Storm
 
 - name: Zoroark
-  level: 65
+  level: 70
   moves:
   - Night Slash
   - Night Daze
