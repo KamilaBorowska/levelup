@@ -1,5 +1,5 @@
 - name: Leavanny
-  level: 62
+  level: 67
   moves:
   - Entrainment
   - X-Scissor
@@ -8,7 +8,7 @@
   levelup: {}
 
 - name: Emboar
-  level: 69
+  level: 71
   moves:
   - Flamethrower
   - Grass Knot
@@ -17,7 +17,7 @@
   levelup: {}
 
 - name: Zoroark
-  level: 71
+  level: 72
   moves:
   - Night Slash
   - Night Daze
@@ -26,7 +26,7 @@
   levelup: {}
 
 - name: Feraligatr
-  level: 70
+  level: 72
   moves:
   - Aqua Tail
   - Strength
@@ -47,7 +47,7 @@
     67: Leaf Storm
 
 - name: Unfezant
-  level: 63
+  level: 65
   moves:
   - Roost
   - Fly
