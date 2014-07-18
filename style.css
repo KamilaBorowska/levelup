@@ -10,7 +10,7 @@ th, td {
     font-size: smaller;
 }
 [title$="dark type"] {
-    background: #EEE;
+    background: #DDD;
 }
 [title$="fire type"] {
     background: #FDD;
