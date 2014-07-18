@@ -39,7 +39,7 @@
   level: 69
   moves:
   - Rock Slide
-  - Earthquake
+  - Dig
   - Strength
   - Energy Ball
   levelup: {}
