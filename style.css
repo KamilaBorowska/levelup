@@ -36,3 +36,6 @@ th, td {
 [title$="fighting type"] {
     background: #ECC;
 }
+[title$="ice type"] {
+    background: #F8F8FF;
+}
