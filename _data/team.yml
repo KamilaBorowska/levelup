@@ -1,14 +1,5 @@
-- name: Unfezant
-  level: 71
-  moves:
-  - Roost
-  - Fly
-  - Air Slash
-  - Facade
-  levelup: {}
-
 - name: Leavanny
-  level: 66
+  level: 77
   moves:
   - Entrainment
   - X-Scissor
@@ -17,17 +8,25 @@
   levelup: {}
 
 - name: Feraligatr
-  level: 74
+  level: 82
   moves:
   - Ice Beam
   - Strength
   - Waterfall
   - Surf
-  levelup:
-    76: Hydro Pump
+  levelup: {}
+
+- name: Unfezant
+  level: 78
+  moves:
+  - Roost
+  - Fly
+  - Air Slash
+  - Facade
+  levelup: {}
 
 - name: Emboar
-  level: 73
+  level: 80
   moves:
   - Flamethrower
   - Brick Break
@@ -36,7 +35,7 @@
   levelup: {}
 
 - name: Sceptile
-  level: 69
+  level: 77
   moves:
   - Rock Slide
   - Dig
@@ -45,7 +44,7 @@
   levelup: {}
 
 - name: Zoroark
-  level: 81
+  level: 90
   moves:
   - Night Slash
   - Night Daze

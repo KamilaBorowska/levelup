@@ -58,5 +58,6 @@ window.onload = function onload() {
         })
     }
 
-    document.body.appendChild(table)
+    var body = document.body
+    body.insertBefore(table, body.firstChild)
 }
